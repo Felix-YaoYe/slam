@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./gaussian-splatting/submodules/fused-ssim",
+        "./gaussian-splatting/submodules/diff-gaussian-rasterization"
+    ],
+    "cmake.sourceDirectory": "/home/yaoye/SLAM/3DGS/gaussian-splatting/submodules/diff-gaussian-rasterization"
+}
